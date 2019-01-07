@@ -1,4 +1,4 @@
-# Staggering Isometric
+# Staggering Isometric Map in VB.NET
 Staggering Isometric map Visual basic (Windows Forms)
 
 <div>

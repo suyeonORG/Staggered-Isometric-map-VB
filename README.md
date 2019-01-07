@@ -1,5 +1,5 @@
-# Staggering Isometric Map in VB.NET
-Staggering Isometric map Visual basic (Windows Forms)
+# Staggered Isometric Map in VB.NET
+Staggered Isometric map Visual basic (Windows Forms)
 
 <div>
 <img src="https://cloud.suyeon.org/github/staggeringlogo.png" alt="Suyeon logo" height="123" width="243">
